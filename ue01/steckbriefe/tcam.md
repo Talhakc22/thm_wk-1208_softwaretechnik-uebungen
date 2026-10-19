@@ -7,3 +7,4 @@ Wirtschaftsinformatik 3. Semester
 Absoluter noob
 
 ## Das erwarte ich von der Veranstaltung
+Ich will am Ende des Semesters verstehen, wie man Software anständig baut.
