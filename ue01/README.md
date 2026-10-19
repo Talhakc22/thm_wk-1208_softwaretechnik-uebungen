@@ -1,7 +1,8 @@
 # Übung 1 — Erste Schritte mit Git und GitHub
 
 In dieser Übung gehen Sie den Weg einer Änderung einmal vollständig: vom
-eigenen Rechner bis in dieses Repository.
+eigenen Rechner bis in dieses Repository. Die Anleitung steht im
+[Übungsblatt](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue01-git-github/).
 
 ## Was Sie einreichen
 

@@ -23,7 +23,8 @@ sagt, was dort einzureichen ist.
    **Push** in Ihren Fork.
 4. Stellen Sie einen **Pull Request** an dieses Repository.
 
-Den Weg Schritt für Schritt beschreibt das Übungsblatt zur Übung 1.
+Den Weg Schritt für Schritt beschreibt das
+[Übungsblatt zur Übung 1](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue01-git-github/).
 
 ## Vor jeder weiteren Übung
 
@@ -51,8 +52,8 @@ Den Branch für die neue Übung zweigen Sie erst danach ab.
   Ziffer an.
 - **Öffentlich ist mehr als das Kürzel.** Am Pull Request steht Ihr
   GitHub-Benutzername, in jedem Commit stehen Name und E-Mail-Adresse aus
-  Ihrer Git-Einrichtung. Wie Sie Ihre Adresse verbergen, steht in Aufgabe 0
-  des Übungsblatts. Schreiben Sie auch in Ihre Dateien nichts, was nicht
+  Ihrer Git-Einrichtung. Wie Sie Ihre Adresse verbergen, steht in
+  [Aufgabe 0 des Übungsblatts](https://carstenlucke.github.io/thm_wk-1208_softwaretechnik/ue01-git-github/#aufgabe-0--einrichten). Schreiben Sie auch in Ihre Dateien nichts, was nicht
   jeder lesen darf — keine Matrikelnummer, keine Anschrift.
 - **Nur eigene Dateien.** Sie ändern ausschließlich, was Sie selbst angelegt
   haben; Vorlagen und die Dateien anderer bleiben unberührt. So kommen sich
